@@ -11,6 +11,7 @@ section {
   margin: auto;
 }
 
+/***** Mobile *****/
 h1 {
   font-family: 'Righteous', cursive;
   font-size: 2em;
